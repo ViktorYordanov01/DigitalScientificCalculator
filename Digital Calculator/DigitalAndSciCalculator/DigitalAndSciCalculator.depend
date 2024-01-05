@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1704453705 source:c:\users\jorda\onedrive\radna površina\digital calculator\digitalandscicalculator\calculator.cpp
+	<iostream>
+	"calculator.h"
+
+1704453703 c:\users\jorda\onedrive\radna površina\digital calculator\digitalandscicalculator\calculator.h
+	<string>
+	<array>
+	<cmath>
+
+1704453704 source:c:\users\jorda\onedrive\radna površina\digital calculator\digitalandscicalculator\scientific.cpp
+	<iostream>
+	"scientific.h"
+
+1704453700 c:\users\jorda\onedrive\radna površina\digital calculator\digitalandscicalculator\scientific.h
+	<string>
+	<array>
+	<cmath>
+	"calculator.h"
+
